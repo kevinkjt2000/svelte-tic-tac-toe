@@ -76,6 +76,7 @@
       {/each}
     </ol>
   </div>
+  <p>Win by getting 4 in a 2x2 square or 4 in a row.</p>
 </main>
 
 <style>
